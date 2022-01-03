@@ -1,2 +1,3 @@
 # Capital
-Plugin minecraft to automatically calculate the cost of items from production and demand statistics
+Plugin minecraft to automatically calculate the cost of items from production and demand statistics.
+Repository created how task.
